@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/abyss-banner.svg" alt="Animated pixel-art banner: a little abyss anglerfish evolves into its armored lv.MAX form" width="100%" />
+  <img src="assets/abyss-banner.svg" alt="Animated pixel-art banner: a baby pixel lobster evolves into its armored lv.MAX form" width="100%" />
 </p>
 
 <p align="center">
