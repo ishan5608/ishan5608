@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ishan</h1>
-<h3 align="center">First-year at NIT Karnataka · learning AI/ML by building things</h3>
+<p align="center">
+  <img src="assets/abyss-banner.svg" alt="Animated pixel-art banner: a little abyss anglerfish evolves into its armored lv.MAX form" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ishan5608">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Training+CNNs+from+scratch+%F0%9F%A7%A0;Building+LLM+agents+%F0%9F%A4%96;Grinding+Codeforces+in+C%2B%2B+%E2%9A%94%EF%B8%8F;Shipping+hackathon+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Training+CNNs+from+scratch+%F0%9F%A7%A0;Building+LLM+agents+%F0%9F%A4%96;Grinding+Codeforces+in+C%2B%2B+%E2%9A%94%EF%B8%8F;Shipping+hackathon+projects+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/ishanahirwar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ishan-ahirwar-b13896433"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/_Mori_56"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="mailto:ishan.ahirwar5608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/ishanahirwar"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=22d3ee" /></a>
+  <a href="https://www.linkedin.com/in/ishan-ahirwar-b13896433"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6" /></a>
+  <a href="https://codeforces.com/profile/_Mori_56"><img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=22d3ee" /></a>
+  <a href="mailto:ishan.ahirwar5608@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8b5cf6" /></a>
 </p>
 
 ---
@@ -51,12 +52,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishan5608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan5608&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishan5608&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9ccd6&ring_color=8b5cf6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan5608&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9ccd6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishan5608&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ishan5608&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9ccd6&dates=8d91a3&currStreakNum=ffffff&sideNums=ffffff&stroke=8b5cf6" />
 </p>
 
 <p align="center"><i>"Learn it. Build it. Ship it."</i> ✨</p>
